@@ -1,0 +1,4 @@
+﻿  Week.c
+d:\programowanie\terminarz\terminarz2\week.c(720): warning C4133: 'function': incompatible types - from 'tasks *' to 'char *'
+d:\programowanie\terminarz\terminarz2\week.c(730): warning C4133: 'function': incompatible types - from 'tasks *' to 'char *'
+  Terminarz2.vcxproj -> D:\Programowanie\Terminarz\x64\Debug\Terminarz2.exe
